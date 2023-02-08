@@ -7,5 +7,5 @@ Then remember the color of the button that is blinking and then press it.
 After that another button will blink, now before you press that button. Press the first button, then the second one.
 Do that again and again and again, until you lose.
 Your score will be shown at the last.
-You can visit this website at 
-You can connect with me at https://www.linkedin.com/in/varadasainikhil/
+You can visit this website at https://varadasainikhil.github.io/SIMON-GAME/ .
+You can connect with me at https://www.linkedin.com/in/varadasainikhil/ .
