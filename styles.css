@@ -1,0 +1,57 @@
+body{
+    background-color: #313638;
+    font-family: 'Bungee Outline', cursive;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin: 0%;
+    color: aliceblue;
+}
+
+#titleText{
+    margin: 3% 10% ;
+}
+
+.button{
+    height:200px;
+    width:200px;
+    border: solid 10px;
+    border-radius: 15%;
+    margin: 3%;
+}
+
+#green{
+    background-color: green;
+}
+
+
+#red{
+    background-color: red;
+}
+
+
+#yellow{
+    background-color: yellow;
+}
+
+
+#blue{
+    background-color: blue;
+}
+
+.left{
+    text-align: right;
+}
+
+.right{
+    text-align: left;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.wrong{
+    background-color: red;
+}
